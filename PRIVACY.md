@@ -13,9 +13,9 @@ Access to Data is strictly limited to the Bot's developers and is only permitted
 
 **3. Use of Data**
 The collected Data is used for the following purposes:
-* **Bot Functionality:** To correctly process and respond to your commands.
-* * **Usage Analysis:** To understand how the bot is being used, identify popular features, and inform future development efforts. This includes generating a usage counter for commands.
-* **Troubleshooting and Support:** To diagnose and resolve any issues that may arise.
+ * **Bot Functionality:** To correctly process and respond to your commands.
+ * * **Usage Analysis:** To understand how the bot is being used, identify popular features, and inform future development efforts. This includes generating a usage counter for commands.
+ * **Troubleshooting and Support:** To diagnose and resolve any issues that may arise.
 
 **4. Storage of Data**
 Data is stored securely in a MySQL database. While we implement reasonable security measures to prevent unauthorized access, no guarantee of absolute security can be provided. The Bot owners assume no liability for unintentional or malicious breaches of Data. In the event of an unauthorized Data access, users will be notified through the Discord client application.
