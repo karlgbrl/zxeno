@@ -5,7 +5,7 @@ By using ZXeno, you agree to comply with these Terms of Service. If you do not a
 ZXeno is designed to assist users by providing additional information related to the "cinfo" commands in the game "AniGame."
 3. **User Responsibilities**
 Users must not misuse the bot, including but not limited to spamming commands or engaging in abusive behavior.
-**4. Data Collection and Usage**
+4. **Data Collection and Usage**
 ZXeno may collect and store certain user data related to bot usage to enhance functionality and improve user experience. This may include:
     * **Discord User ID:** Used to identify individual users and their interactions with the bot.
     * **Server ID:** Used to understand bot usage within specific Discord servers.
