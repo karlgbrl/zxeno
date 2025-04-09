@@ -16,4 +16,4 @@ At any time, you have the right to request to view the Data pertaining to your D
 
 ## Questions
 
-If you have any questions or are concerned about what data might be being stored from your account contact `Koshiro#0001`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
+If you have any questions or are concerned about what data might be being stored from your account contact `koshiro.gg` in Discord. For more information check the [Discord Terms Of Service](https://discord.com/terms).
